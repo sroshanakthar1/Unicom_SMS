@@ -58,7 +58,7 @@ namespace WinFormsApp_2025_06_02.Controllers
                     int rowsAffected = cmd.ExecuteNonQuery();
                     if (rowsAffected > 0)
                     {
-                        Console.WriteLine("Bike successfully added");
+                        Console.WriteLine("User successfully added");
 
                     }
                     else

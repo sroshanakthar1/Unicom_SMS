@@ -54,8 +54,13 @@ namespace WinFormsApp_2025_06_02
                 Password = textBox3.Text,
                 Role = comboBox1.Text,
             };
-            
-           var data =  _userController.AddUser(user);
+
+            var data = _userController.AddUser(user);
+
+        }
+
+        private void SignUpForm_Load(object sender, EventArgs e)
+        {
 
         }
     }

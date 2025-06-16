@@ -23,14 +23,14 @@ namespace WinFormsApp_2025_06_02.Views
             InitializeComponent();
             _userController = new UserController();
             LoadUsers();
-            
+
         }
 
         private void LoadUsers()
         {
             dataGridViewUsers.DataSource = null;
             dataGridViewUsers.DataSource = this.GetAllUsers();
-           
+
         }
         //private List<AppUser> Users = new List<AppUser>
         //{
@@ -55,6 +55,11 @@ namespace WinFormsApp_2025_06_02.Views
         {
             var data = _userController.GetAllUsers();
             return data;
+        }
+
+        private void dataGridViewUsers_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

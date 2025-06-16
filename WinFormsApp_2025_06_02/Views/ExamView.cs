@@ -16,5 +16,10 @@ namespace WinFormsApp_2025_06_02
         {
             InitializeComponent();
         }
+
+        private void ExamView_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

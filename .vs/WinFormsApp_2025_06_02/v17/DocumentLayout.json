@@ -1,54 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\",
+  "WorkspaceRootPath": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\roshan akthar\\onedrive\\desktop\\unicom tic\\c#\\unicom_sms-master\\winformsapp_2025_06_02\\views\\examview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\views\\examview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\winformsapp_2025_06_02\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\winformsapp_2025_06_02\\views\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\views\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\winformsapp_2025_06_02\\views\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\views\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\roshan akthar\\onedrive\\desktop\\unicom tic\\c#\\unicom_sms-master\\winformsapp_2025_06_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\roshan akthar\\onedrive\\desktop\\unicom tic\\c#\\unicom_sms-master\\winformsapp_2025_06_02\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\roshan akthar\\onedrive\\desktop\\unicom tic\\c#\\unicom_sms-master\\winformsapp_2025_06_02\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\roshan akthar\\onedrive\\desktop\\unicom tic\\c#\\unicom_sms-master\\winformsapp_2025_06_02\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\roshan akthar\\onedrive\\desktop\\unicom tic\\c#\\unicom_sms-master\\winformsapp_2025_06_02\\views\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\ut010603\\desktop\\new folder\\unicom_sms\\winformsapp_2025_06_02\\views\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\views\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\roshan akthar\\onedrive\\desktop\\unicom tic\\c#\\unicom_sms-master\\winformsapp_2025_06_02\\views\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\views\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\roshan akthar\\onedrive\\desktop\\unicom tic\\c#\\unicom_sms-master\\winformsapp_2025_06_02\\views\\examview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\ut010603\\desktop\\new folder\\unicom_sms\\winformsapp_2025_06_02\\views\\examview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\views\\examview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\roshan akthar\\onedrive\\desktop\\unicom tic\\c#\\unicom_sms-master\\winformsapp_2025_06_02\\winformsapp_2025_06_02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\winformsapp_2025_06_02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\ut010603\\desktop\\new folder\\unicom_sms\\winformsapp_2025_06_02\\views\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\views\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\ut010603\\desktop\\new folder\\unicom_sms\\winformsapp_2025_06_02\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\ut010603\\desktop\\new folder\\unicom_sms\\winformsapp_2025_06_02\\data\\migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\data\\migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\ut010603\\desktop\\new folder\\unicom_sms\\winformsapp_2025_06_02\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\ut010603\\desktop\\new folder\\unicom_sms\\winformsapp_2025_06_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\ut010603\\desktop\\new folder\\unicom_sms\\winformsapp_2025_06_02\\data\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\data\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\ut010603\\desktop\\new folder\\unicom_sms\\winformsapp_2025_06_02\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\ut010603\\desktop\\new folder\\unicom_sms\\winformsapp_2025_06_02\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\winformsapp_2025_06_02\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\winformsapp_2025_06_02\\views\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\views\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\winformsapp_2025_06_02\\views\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\views\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|c:\\users\\ut010603\\desktop\\new folder\\unicom_sms\\winformsapp_2025_06_02\\views\\examview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CF443CC-6C00-440B-BB89-8352D464D18E}|WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj|solutionrelative:winformsapp_2025_06_02\\views\\examview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,148 +66,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Views\\LoginForm.cs",
-              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Views\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Views\\LoginForm.cs [Design]",
-              "RelativeToolTip": "WinFormsApp_2025_06_02\\Views\\LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T17:09:33.751Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserView.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Views\\UserView.cs",
-              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Views\\UserView.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Views\\UserView.cs [Design]",
-              "RelativeToolTip": "WinFormsApp_2025_06_02\\Views\\UserView.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "SqliteHelper.cs",
+              "DocumentMoniker": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Data\\SqliteHelper.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Data\\SqliteHelper.cs",
+              "ToolTip": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Data\\SqliteHelper.cs",
+              "RelativeToolTip": "WinFormsApp_2025_06_02\\Data\\SqliteHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T17:09:24.692Z"
+              "WhenOpened": "2025-06-16T06:13:08.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Program.cs",
+              "ToolTip": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Program.cs",
+              "RelativeToolTip": "WinFormsApp_2025_06_02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:05:40.531Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "DBInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Data\\DBInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Data\\DBInitializer.cs",
               "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Data\\DBInitializer.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Data\\DBInitializer.cs",
+              "ToolTip": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Data\\DBInitializer.cs",
               "RelativeToolTip": "WinFormsApp_2025_06_02\\Data\\DBInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T17:08:09.792Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ExamController.cs",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Controllers\\ExamController.cs",
-              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Controllers\\ExamController.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Controllers\\ExamController.cs",
-              "RelativeToolTip": "WinFormsApp_2025_06_02\\Controllers\\ExamController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T17:07:59.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SignUpForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Views\\SignUpForm.cs",
-              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Views\\SignUpForm.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Views\\SignUpForm.cs [Design]",
-              "RelativeToolTip": "WinFormsApp_2025_06_02\\Views\\SignUpForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T17:07:38.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ExamView.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Views\\ExamView.cs",
-              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Views\\ExamView.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Views\\ExamView.cs [Design]",
-              "RelativeToolTip": "WinFormsApp_2025_06_02\\Views\\ExamView.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T17:07:16.169Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SignUpForm.cs",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Views\\SignUpForm.cs",
-              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Views\\SignUpForm.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Views\\SignUpForm.cs",
-              "RelativeToolTip": "WinFormsApp_2025_06_02\\Views\\SignUpForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T17:07:11.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserView.cs",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Views\\UserView.cs",
-              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Views\\UserView.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Views\\UserView.cs",
-              "RelativeToolTip": "WinFormsApp_2025_06_02\\Views\\UserView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T17:07:10.31Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ExamView.cs",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Views\\ExamView.cs",
-              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Views\\ExamView.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Views\\ExamView.cs",
-              "RelativeToolTip": "WinFormsApp_2025_06_02\\Views\\ExamView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T17:07:09.156Z"
+              "WhenOpened": "2025-06-16T05:41:03.55Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Program.cs",
-              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Program.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Program.cs",
-              "RelativeToolTip": "WinFormsApp_2025_06_02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Migration.cs",
+              "DocumentMoniker": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Data\\Migration.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Data\\Migration.cs",
+              "ToolTip": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Data\\Migration.cs",
+              "RelativeToolTip": "WinFormsApp_2025_06_02\\Data\\Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T17:06:56.052Z"
+              "WhenOpened": "2025-06-16T06:13:27.075Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Controllers\\UserController.cs",
               "RelativeToolTip": "WinFormsApp_2025_06_02\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T17:08:01.645Z"
+              "WhenOpened": "2025-06-15T17:08:01.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUpForm.cs",
+              "DocumentMoniker": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Views\\SignUpForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Views\\SignUpForm.cs",
+              "ToolTip": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Views\\SignUpForm.cs",
+              "RelativeToolTip": "WinFormsApp_2025_06_02\\Views\\SignUpForm.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:42:15.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExamView.cs",
+              "DocumentMoniker": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Views\\ExamView.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Views\\ExamView.cs",
+              "ToolTip": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Views\\ExamView.cs",
+              "RelativeToolTip": "WinFormsApp_2025_06_02\\Views\\ExamView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:42:21.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserView.cs",
+              "DocumentMoniker": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Views\\UserView.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Views\\UserView.cs",
+              "ToolTip": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Views\\UserView.cs",
+              "RelativeToolTip": "WinFormsApp_2025_06_02\\Views\\UserView.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:40:55.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Views\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Views\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Views\\LoginForm.cs",
+              "RelativeToolTip": "WinFormsApp_2025_06_02\\Views\\LoginForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:40:51.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Models\\AppUser.cs",
+              "RelativeToolTip": "WinFormsApp_2025_06_02\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:23:21.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Views\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Views\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Views\\LoginForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp_2025_06_02\\Views\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:09:33.751Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "WinFormsApp_2025_06_02.csproj",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj",
-              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Unicom_SMS-master\\WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj",
-              "RelativeToolTip": "WinFormsApp_2025_06_02\\WinFormsApp_2025_06_02.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-15T17:06:50.069Z"
+              "Title": "UserView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Views\\UserView.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Views\\UserView.cs",
+              "ToolTip": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Views\\UserView.cs [Design]",
+              "RelativeToolTip": "WinFormsApp_2025_06_02\\Views\\UserView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:09:24.692Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignUpForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Views\\SignUpForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Views\\SignUpForm.cs",
+              "ToolTip": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Views\\SignUpForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp_2025_06_02\\Views\\SignUpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:07:38.379Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExamView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Views\\ExamView.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_2025_06_02\\Views\\ExamView.cs",
+              "ToolTip": "C:\\Users\\UT010603\\Desktop\\New folder\\Unicom_SMS\\WinFormsApp_2025_06_02\\Views\\ExamView.cs [Design]",
+              "RelativeToolTip": "WinFormsApp_2025_06_02\\Views\\ExamView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:07:16.169Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

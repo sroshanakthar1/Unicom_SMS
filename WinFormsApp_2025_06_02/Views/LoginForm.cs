@@ -34,7 +34,7 @@ namespace WinFormsApp_2025_06_02
 
         private void OnLogin(object sender, EventArgs e)
         {
-            
+
             string username = userNameTxt.Text.Trim();
             string password = passwordTxt.Text;
 
@@ -49,13 +49,14 @@ namespace WinFormsApp_2025_06_02
                 userView.Show();
                 this.Hide();
             }
-            else 
+            else
             {
                 Credentials credentials = new Credentials();
                 credentials.Username = username;
                 credentials.Password = password;
                 var result = _userController.Login(credentials);
-                if (result) {
+                if (result)
+                {
                     UserView userView = new UserView();
                     userView.Show();
                     this.Hide();
@@ -69,7 +70,12 @@ namespace WinFormsApp_2025_06_02
                     userNameTxt.Focus();
                 }
             }
-           
+
+        }
+
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

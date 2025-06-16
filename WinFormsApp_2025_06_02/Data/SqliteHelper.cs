@@ -11,9 +11,5 @@ namespace WinFormsApp_2025_06_02.Data
 {
     public class SqliteHelper
     {
-
-        // Use the same path from DatabaseInitializer
-       
-
     }
 }

@@ -36,17 +36,20 @@
             // dataGridViewUsers
             // 
             dataGridViewUsers.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewUsers.Location = new Point(58, 35);
+            dataGridViewUsers.Location = new Point(51, 26);
+            dataGridViewUsers.Margin = new Padding(3, 2, 3, 2);
             dataGridViewUsers.Name = "dataGridViewUsers";
             dataGridViewUsers.RowHeadersWidth = 51;
-            dataGridViewUsers.Size = new Size(700, 350);
+            dataGridViewUsers.Size = new Size(612, 262);
             dataGridViewUsers.TabIndex = 0;
+            dataGridViewUsers.CellContentClick += dataGridViewUsers_CellContentClick;
             // 
             // button1
             // 
-            button1.Location = new Point(664, 400);
+            button1.Location = new Point(581, 300);
+            button1.Margin = new Padding(3, 2, 3, 2);
             button1.Name = "button1";
-            button1.Size = new Size(94, 29);
+            button1.Size = new Size(82, 22);
             button1.TabIndex = 1;
             button1.Text = "Add User";
             button1.UseVisualStyleBackColor = true;
@@ -54,11 +57,12 @@
             // 
             // UserView
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(700, 338);
             Controls.Add(button1);
             Controls.Add(dataGridViewUsers);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "UserView";
             Text = "UserView";
             ((System.ComponentModel.ISupportInitialize)dataGridViewUsers).EndInit();

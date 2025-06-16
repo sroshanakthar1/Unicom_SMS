@@ -33,3 +33,39 @@ C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\C#\Unicom_SMS-master\WinForms
 C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\C#\Unicom_SMS-master\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\WinFormsApp_2025_06_02.pdb
 C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\C#\Unicom_SMS-master\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\WinFormsApp_2025_06_02.genruntimeconfig.cache
 C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\C#\Unicom_SMS-master\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\ref\WinFormsApp_2025_06_02.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\WinFormsApp_2025_06_02.exe
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\WinFormsApp_2025_06_02.deps.json
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\WinFormsApp_2025_06_02.runtimeconfig.json
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\WinFormsApp_2025_06_02.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\WinFormsApp_2025_06_02.pdb
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\WinFormsApp_2025_06_02.csproj.AssemblyReference.cache
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\WinFormsApp_2025_06_02.ExamView.resources
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\WinFormsApp_2025_06_02.LoginForm.resources
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\WinFormsApp_2025_06_02.SignUpForm.resources
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\WinFormsApp_2025_06_02.Views.UserView.resources
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\WinFormsApp_2025_06_02.csproj.GenerateResource.cache
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\WinFormsApp_2025_06_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\WinFormsApp_2025_06_02.AssemblyInfoInputs.cache
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\WinFormsApp_2025_06_02.AssemblyInfo.cs
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\WinFormsApp_2025_06_02.csproj.CoreCompileInputs.cache
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\WinFormsApp_2025_06_02.sourcelink.json
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\WinForms.632E728E.Up2Date
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\WinFormsApp_2025_06_02.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\refint\WinFormsApp_2025_06_02.dll
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\WinFormsApp_2025_06_02.pdb
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\WinFormsApp_2025_06_02.genruntimeconfig.cache
+C:\Users\UT010603\Desktop\New folder\Unicom_SMS\WinFormsApp_2025_06_02\obj\Debug\net8.0-windows\ref\WinFormsApp_2025_06_02.dll
